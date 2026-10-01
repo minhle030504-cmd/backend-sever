@@ -1,5 +1,5 @@
 // models/Vehicle.js
-// Giả lập danh sách xe trong bộ nhớ (có thể thay bằng CSDL sau)
+// Giả lập danh sách xe trong bộ nhớ 
 let vehicles = [
   { id: 1, name: "Honda Wave Alpha", type: "Xăng", daily_price: 150000, status: "Sẵn sàng" },
   { id: 2, name: "VinFast Feliz S", type: "Điện", daily_price: 200000, status: "Sẵn sàng" }
